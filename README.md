@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React 19">
   <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white" alt="Vite 8">
   <img src="https://img.shields.io/badge/Responsive-UI-22C55E" alt="Responsive UI">
-  <img src="https://img.shields.io/badge/Status-In%20Development-F59E0B" alt="Status: In Development">
 </p>
 
 <p align="center">
