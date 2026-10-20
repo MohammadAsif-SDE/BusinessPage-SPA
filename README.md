@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="business.gif" alt="SPA-Business.gif" width="900" />
+  <img src="src/assets/business.gif" alt="SPA-Business.gif" width="900" />
 </p>
 
 ## Overview
