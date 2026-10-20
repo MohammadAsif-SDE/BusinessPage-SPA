@@ -25,10 +25,6 @@
   <a href="#deployment">Deployment</a>
 </p>
 
-<p align="center">
-  <img src="src/assets/business.gif" alt="SPA-Business.gif" width="900" />
-</p>
-
 ## Overview
 
 Business Page is a single-page React application built to present the company's capabilities, services, portfolio, client testimonials, and contact options in a polished, responsive interface.
@@ -53,6 +49,10 @@ The site includes:
 - **Lucide React** — interface icons
 - **CSS** — custom responsive styling, themes, animations, and layout
 - **ESLint** — code-quality checks
+
+<p align="center">
+  <img src="src/assets/business.gif" alt="SPA-Business.gif" width="900" />
+</p>
 
 ## Requirements
 
