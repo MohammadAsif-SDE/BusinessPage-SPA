@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/favicon.svg" alt="Business Page logo" width="96">
+  <img src="src/assets/hero.png" alt="Business Page logo" width="96">
 </p>
 
 <h1 align="center">Business Page</h1>
@@ -26,11 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="public/business-preview.png" alt="Business Page website walkthrough">
-</p>
-
-<p align="center">
-  <img src="src/assets/hero.png" alt="Business Page website preview">
+  <img src="business.gif" alt="SPA-Business.gif" width="900" />
 </p>
 
 ## Overview
