@@ -32,7 +32,7 @@ const About = () => {
           <span className="subtitle">Who We Are</span>
           <h2 className="title">A Small Startup with <span className="gradient-text">Massive Capabilities</span></h2>
           <p className="desc">
-            At BMD Global Technologies, we break down complex digital barriers. We are a agile, passionate team 
+            At SPA Business, we break down complex digital barriers. We are a agile, passionate team 
             of engineers and IT specialists dedicated to building the future.
           </p>
         </div>
@@ -41,7 +41,7 @@ const About = () => {
           <div className="about-narrative glass-panel">
             <h3 className="about-subtitle">Our Story & Approach</h3>
             <p className="about-text">
-              We started BMD Global Technologies with a simple vision: to make premier IT solutions accessible to businesses of all sizes. 
+              We started SPA Business with a simple vision: to make premier IT solutions accessible to businesses of all sizes. 
               As a young, hungry startup, we don't believe in boilerplate services. We dive deep into your workflow to build systems that perfectly fit your goals.
             </p>
             <p className="about-text">

@@ -90,7 +90,7 @@ const Footer = () => {
       <div className="footer-bottom-bar">
         <div className="container bottom-container flex-center">
           <p className="copyright-text">
-            © {new Date().getFullYear()} BMD Global Technologies. All rights reserved.
+            © {new Date().getFullYear()} SPA Business. All rights reserved.
           </p>
         </div>
       </div>

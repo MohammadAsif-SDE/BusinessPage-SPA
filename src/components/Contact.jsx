@@ -122,7 +122,7 @@ const Contact = () => {
                 <CheckCircle className="success-icon" size={60} />
                 <h3 className="success-title">Message Sent Successfully!</h3>
                 <p className="success-message">
-                  Thank you for reaching out to BMD Global Technologies. We have received your inquiry and our engineering team will contact you shortly.
+                  Thank you for reaching out to SPA Business. We have received your inquiry and our engineering team will contact you shortly.
                 </p>
                 <button 
                   type="button" 

@@ -6,7 +6,7 @@ const Testimonials = () => {
 
   const testimonials = [
     {
-      quote: "Working with BMD Global Technologies was a game changer for our operations. As a startup, they brought extreme agility and focus. They completely refactored our legacy data systems in under a month.",
+      quote: "Working with SPA Business was a game changer for our operations. As a startup, they brought extreme agility and focus. They completely refactored our legacy data systems in under a month.",
       name: "Sarah Jenkins",
       role: "CTO, RetailFlow Systems",
       rating: 5
@@ -18,7 +18,7 @@ const Testimonials = () => {
       rating: 5
     },
     {
-      quote: "BMD Global Technologies conducted a deep penetration audit on our API endpoints. Their findings and remediation reports saved us from potential critical compliance failures. Highly professional startup!",
+      quote: "SPA Business conducted a deep penetration audit on our API endpoints. Their findings and remediation reports saved us from potential critical compliance failures. Highly professional startup!",
       name: "David Chen",
       role: "Director of Security, LedgerEdge",
       rating: 5

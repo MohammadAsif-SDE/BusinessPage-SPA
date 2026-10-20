@@ -26,6 +26,10 @@
 </p>
 
 <p align="center">
+  <img src="public/business-preview.png" alt="Business Page website walkthrough">
+</p>
+
+<p align="center">
   <img src="src/assets/hero.png" alt="Business Page website preview">
 </p>
 

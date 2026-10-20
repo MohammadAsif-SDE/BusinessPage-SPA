@@ -18,7 +18,7 @@ const Hero = () => {
             Architecting <span className="gradient-text">Digital Frontiers</span> For Modern Enterprises
           </h1>
           <p className="hero-description">
-            BMD Global Technologies designs, builds, and deploys high-performance software systems. 
+            SPA Business designs, builds, and deploys high-performance software systems. 
             From cloud engineering and custom software development to cybersecurity and IT strategy.
           </p>
           <div className="hero-actions">
