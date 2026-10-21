@@ -179,7 +179,3 @@ Use the following build settings:
 | Output directory | `dist` |
 
 If the application is deployed under a subpath rather than the domain root, configure the Vite `base` option in [`vite.config.js`](vite.config.js) before building.
-
-## License
-
-No license has been declared for this project yet. Add a `LICENSE` file and update this section before distributing the source or publishing it as an open-source project.
